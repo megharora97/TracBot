@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 13744,
+  "expoServerNgrokUrl": "https://x4-qut.anonymous.tracbot.exp.direct",
+  "packagerNgrokUrl": "https://packager.x4-qut.anonymous.tracbot.exp.direct",
+  "ngrokPid": 2752,
+  "webpackServerPort": null
+}
