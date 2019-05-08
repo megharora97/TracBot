@@ -6,7 +6,7 @@ import {
   Image
 } from 'react-native';
 import ChatBot from 'react-native-chatbot';
-
+import Routes from './src/Routes';
 const style = StyleSheet.create({
   container: {
     flex: 1,
